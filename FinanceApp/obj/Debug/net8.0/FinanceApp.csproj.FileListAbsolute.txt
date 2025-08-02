@@ -1,0 +1,14 @@
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\bin\Debug\net8.0\FinanceApp.exe
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\bin\Debug\net8.0\FinanceApp.deps.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\bin\Debug\net8.0\FinanceApp.runtimeconfig.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\bin\Debug\net8.0\FinanceApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\bin\Debug\net8.0\FinanceApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\FinanceApp.AssemblyInfoInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\FinanceApp.AssemblyInfo.cs
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\FinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\FinanceApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\refint\FinanceApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\FinanceApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\FinanceApp.genruntimeconfig.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\FinanceApp\obj\Debug\net8.0\ref\FinanceApp.dll
