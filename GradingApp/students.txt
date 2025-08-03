@@ -1,0 +1,7 @@
+101, Alicia Keys, 84
+102, Coco Jones , 72
+103, Sister Hong, 59
+104, Oscar Piastri, 40
+105, Lando Norris, 77
+106, ,90
+106, Bruce,62

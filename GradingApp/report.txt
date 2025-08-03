@@ -1,0 +1,7 @@
+Alicia Keys (ID: 101): Score = 84, Grade = A
+Coco Jones (ID: 102): Score = 72, Grade = B
+Sister Hong (ID: 103): Score = 59, Grade = D
+Oscar Piastri (ID: 104): Score = 40, Grade = F
+Lando Norris (ID: 105): Score = 77, Grade = B
+ (ID: 106): Score = 90, Grade = A
+Bruce (ID: 106): Score = 62, Grade = C
