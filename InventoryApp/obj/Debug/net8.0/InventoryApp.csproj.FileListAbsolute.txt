@@ -1,0 +1,15 @@
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\bin\Debug\net8.0\InventoryApp.exe
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\bin\Debug\net8.0\InventoryApp.deps.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\bin\Debug\net8.0\InventoryApp.runtimeconfig.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\bin\Debug\net8.0\InventoryApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\bin\Debug\net8.0\InventoryApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfoInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfo.cs
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.sourcelink.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\refint\InventoryApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\InventoryApp.genruntimeconfig.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\InventoryApp\obj\Debug\net8.0\ref\InventoryApp.dll

@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 7,
+    "DateAdded": "2025-08-03T17:43:29.9112928+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 20,
+    "DateAdded": "2025-08-03T17:43:29.9156062+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 22,
+    "DateAdded": "2025-08-03T17:43:29.9156079+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "IPad",
+    "Quantity": 3,
+    "DateAdded": "2025-08-03T17:43:29.915608+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "HDMI Cable",
+    "Quantity": 19,
+    "DateAdded": "2025-08-03T17:43:29.9156081+00:00"
+  }
+]
