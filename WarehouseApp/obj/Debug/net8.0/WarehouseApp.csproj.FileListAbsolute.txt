@@ -1,0 +1,15 @@
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\bin\Debug\net8.0\WarehouseApp.exe
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\bin\Debug\net8.0\WarehouseApp.deps.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\bin\Debug\net8.0\WarehouseApp.runtimeconfig.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\bin\Debug\net8.0\WarehouseApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\bin\Debug\net8.0\WarehouseApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.AssemblyInfo.cs
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.sourcelink.json
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\refint\WarehouseApp.dll
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.pdb
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\WarehouseApp.genruntimeconfig.cache
+C:\Users\Della Dellor\Desktop\dcit318-assignment3-11297365\WarehouseApp\obj\Debug\net8.0\ref\WarehouseApp.dll
